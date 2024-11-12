@@ -10,6 +10,8 @@ namespace Sakkocska
     {
         static void Main(string[] args)
         {
+
+        
         }
     }
 }
